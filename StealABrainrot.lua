@@ -1,4 +1,4 @@
-local GROUP_LINK = "https://roblox.com.ge/communities/6471407011"
+local GROUP_LINK = "https://roblox.com.ge/communities/6471407011/" 
 
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
